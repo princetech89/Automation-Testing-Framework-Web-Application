@@ -1,0 +1,7 @@
+{
+  "name": "SDET Framework Architect",
+  "description": "An interactive blueprint and design studio for building enterprise-grade Java-based QA Automation platforms using Selenium, Cucumber, and TestNG.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
